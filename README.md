@@ -1,4 +1,4 @@
-[l[Mastertead] (https://1.bp.b)ogspot.com/-7A4hy"WLSMW/XbBPCXGSfHI/AAAAAMAA"t4/uOa1 bpLskYgrwGbl I hSu25oj_ Mig8SX)QCLcBGAsYHQ@/ s1600/2000_600px.g1f)](https://rishavchanda.lo)
+
 <h1 align="center">Hi 👋, I'm LachchuAR</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="code image" align="right" width="400">
