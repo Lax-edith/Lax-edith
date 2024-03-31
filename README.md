@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://arulrajah-lakshanth.netlify.app/](https://arulrajah-lakshanth.netlify.app/)
-
 - 💬 Ask me about **Web development**
 
 <h3 align="left">Connect with me:</h3>
